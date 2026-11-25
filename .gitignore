@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.zip
+.elasticbeanstalk/
+.aws/
+*.pem
+*.log
