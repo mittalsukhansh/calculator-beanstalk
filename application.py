@@ -6,7 +6,7 @@ application = Flask(__name__)
 
 @application.route('/')
 def hello():
-    return 'Hello AWS Beanstalk - version:0.0.4'
+    return 'Hello AWS Beanstalk - version:0.0.5'
 
 
 @application.route('/health')
